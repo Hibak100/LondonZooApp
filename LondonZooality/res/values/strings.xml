@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">London Zooality</string>
+    <string name="username">Username:</string>
+    <string name="passwd">Password:</string>
+    <string name="login">Login</string>
+    <string name="quiz_menu">Quiz_menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery_images">Gallery</string>
+    <string name="Virtual_tour">Virtual tour</string>
+    <string name="Quizzes_activities">Quizzes</string>
+    <string name="map_view">Map</string>
+    <string name="ks3_age">Key Stage 3</string>
+    <string name="ks4_age">Key Stage 4</string>
+    <string name="Start_now">Start</string>
+    <string name="Capture_image">Take a picture</string>
+    <string name="action_home">Main Menu</string>
+    <string name="topic1">Food chains and food web!</string>
+    <string name="topic2">Investigating ecosystems!</string>
+    <string name="topic3">Aquariam and bugs!</string>
+    <string name="desc">description</string>
+    <string name="Q1">What is a habitat?</string>
+    <string name="A1">(a)The conditions that surround an organism.</string>
+    <string name="A2">(b)The place where an organism lives.</string>
+    <string name="A3">(c)A place where wild animals can be observed secretly.</string>
+    <string name="Q2">Which device is most suited to catching small vertebrates such as mice?</string>
+    <string name="A1.1">(a)Sweep net.</string>
+    <string name="A2.1">(b)Pooter.</string>
+    <string name="A3.1">(c)Pitfall trap.</string>
+    <string name="Q3">What is meant by biodiversity?</string>
+    <string name="Type">Type in answer!</string>
+    <string name="Okay">Save</string>
+    <string name= "Q1A">What does a food chain always start with?</string>
+    <string name="Answ1">(a)A top predator</string>
+    <string name="Answ2">(b)A herbivore</string>
+    <string name="Answ3">(c)A producer</string>
+    <string name= "Q1B">Which is the secondary consumer in this food chain: grass->grasshopper->frog->hawk?</string>
+    <string name="Answ1.1">(a)Grass</string>
+    <string name="Answ2.1">(b)Grasshopper</string>
+    <string name="Answ3.1">(c)Frogs</string>
+    <string name="Q1C">What does an omnivore eat?</string>
+    <string name="Answ1.2">(a)Meat only</string>
+    <string name="Answ2.2">(b)Plant only</string>
+    <string name="Answ3.2">(c)Meat and plants only</string>
+    <string name="Q1D">What is a habitat?</string>
+    <string name="Answ1.3">(a)The place where an organism lives</string>
+    <string name="Answ2.3">(b)All the conditions that surround an organism</string>
+    <string name="Answ3.3">(c)All the populations of different organisms</string>
+    <string name="Submit">Submit quiz</string>
+    
+    
+    
+    
+    
+    
+    
+    
+</resources>
